@@ -19,10 +19,6 @@ Save the data to the file
 
 # CODE
 ```
-NAME: Mahinkumar T
-REGISTER NO.:212222040094
-```
-```
 # DATA PREPROCESSING BEFORE FEATURE SELECTION:
 import pandas as pd
 import numpy as np
