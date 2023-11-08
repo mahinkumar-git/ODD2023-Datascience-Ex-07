@@ -204,7 +204,7 @@ plt.show()
 ## FILTER METHOD:
 The filtering here is done using correlation matrix and it is most commonly done using Pearson correlation.
 ![image](https://github.com/harinidq/Ex-07-Feature-Selection/assets/113497680/0b8d3ec1-3c18-4923-9fb1-bd4e46b017e3)
-HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
+## HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
 ![image](https://github.com/harinidq/Ex-07-Feature-Selection/assets/113497680/deeac637-ded9-447b-9bb8-30e24224b454)
 ## HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
 ![image](https://github.com/harinidq/Ex-07-Feature-Selection/assets/113497680/77404167-a114-4320-926e-e6c70be0f9c2)
