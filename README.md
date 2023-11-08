@@ -15,9 +15,6 @@ Clean the Data Set using Data Cleaning Process
 Apply Feature selection techniques to all the features of the data set
 ### STEP 4
 Save the data to the file
-### STEP 5
-Verify the data saved to file
-
 
 
 
